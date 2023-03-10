@@ -49,4 +49,12 @@ python license_plate_detection.py
 ![number_plate_cropped_images](https://user-images.githubusercontent.com/126225087/224005814-4b3454f7-56fb-4b0a-a954-e70aa552fb9f.jpg)
 ##### License Plate Detection
 ![number_plate_cropped_images](https://user-images.githubusercontent.com/126225087/224006083-db83a7e5-a623-428c-a9f6-916a8526ccb5.jpg)
+#### Output From the image
+![output](https://user-images.githubusercontent.com/126225087/224240173-aa4bebf7-5f0b-4123-9e46-6c19de466795.jpg)
+#### Crop images of the Number plate save in other folder
+![cropped_images](https://user-images.githubusercontent.com/126225087/224240483-4f748dd9-0ba7-4d1b-91c3-5f157d17732b.jpg)
+#### Output save in the csv file with the serial number, time date and the folder path with the name of the image
+![extracted](https://user-images.githubusercontent.com/126225087/224242135-e3d4a3bd-8819-459a-aada-84e7b60d067c.jpg)
+
+
 
